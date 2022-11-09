@@ -8,7 +8,7 @@ public class TestController {
 
     @RequestMapping("/")
     public String index() {
-        return "hello world! 1.0.0";
+        return "hello world! 1.0.1";
     }
 
 }
